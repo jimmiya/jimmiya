@@ -1,4 +1,8 @@
-## Hi there 👋
+Finishing MSc High Performance Graphics & Games Engineering at University of Leeds.
+
+## Current Projects
+- **[KillSwitch Engine](https://github.com/LiamSwarbrick/KillSwitch-Vulkan-Engine)** - working on the custom physics engine and gameplay systems
+- (Private) Procedural Generation of Caves
 
 <!--
 **jimmiya/jimmiya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
