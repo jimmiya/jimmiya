@@ -4,6 +4,11 @@ Finishing MSc High Performance Graphics & Games Engineering at University of Lee
 - **[KillSwitch Engine](https://github.com/LiamSwarbrick/KillSwitch-Vulkan-Engine)** - working on the custom physics engine and gameplay systems
 - (Private) Procedural Generation of Caves
 
+## Past projects (private)
+- Vulkan renderer
+- Small skeletal animation and collision detection system
+- CPU Pathtracer
+
 <!--
 **jimmiya/jimmiya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
