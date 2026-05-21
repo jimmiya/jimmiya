@@ -22,7 +22,7 @@ I have done past projects not related to computer graphics, but they have been l
 Projects include:
  - A multiplayer card game in Unity (un-released due to potential copyright infringement).
  - A student residence management desktop app using Electron with React for frontend, NodeJS for backend.
- - A Ms. Pac-Man AI for Ms. and the Ghosts using different AI-based and rule patterns (they worked amazing). Using Java.
+ - (Part of coursework) A Ms. Pac-Man AI for Ms. and the Ghosts using different AI-based and rule patterns (they worked amazing). Using Java.
 <!--
 **jimmiya/jimmiya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
