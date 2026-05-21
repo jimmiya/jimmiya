@@ -1,6 +1,7 @@
 Master's student finishing MSc High Performance Graphics and Games Engineering at University of Leeds.
 
 Have been programming for 7 years, mainly using C++, C (embedded systems) and Java. 
+
 Still learning Unity using [Jasper's amazing tutorials](https://catlikecoding.com/), considering learning Unreal or moving to Godot.
 
 I gained interest towards computer graphics during my final undergraduate year and decided to dedicate my life to it 😁.
